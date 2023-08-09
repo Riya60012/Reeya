@@ -1,0 +1,7 @@
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\bin\Debug\SydneyCoffee.exe.config
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\bin\Debug\SydneyCoffee.exe
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\bin\Debug\SydneyCoffee.pdb
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\obj\Debug\Coffee in Sydney.csproj.AssemblyReference.cache
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\obj\Debug\Coffee in Sydney.csproj.CoreCompileInputs.cache
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\obj\Debug\SydneyCoffee.exe
+C:\Users\riyax\source\repos\SydneyCoffee\SydneyCoffee\obj\Debug\SydneyCoffee.pdb
